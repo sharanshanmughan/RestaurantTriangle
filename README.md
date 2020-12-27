@@ -20,3 +20,5 @@ in AndroidManifest.xml
             android:name="com.here.android.maps.license.key"
             android:value="licencekey" />
 ```
+
+![alt text](https://github.com/[sharanshanmughan]/[RestaurantTriangle]/blob/[branch]/image.jpg?raw=true)
