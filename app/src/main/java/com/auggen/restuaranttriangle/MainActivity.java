@@ -354,7 +354,7 @@ public class MainActivity extends FragmentActivity {
                         map.addMapObject(mapRoute);
                         Double distance = length/1000;
                         findDrivingDistanceList(distance);
-
+//                        Log.d("rrrr"," "+routeResults.get(1).getRoute());
 
                     }
                 }
@@ -411,7 +411,9 @@ public class MainActivity extends FragmentActivity {
         double dist2 = driveDistanceList[1];
         double dist3 = driveDistanceList[2];
         double perimeter2 = dist1 + dist2 + dist3;
+
         double time2 = Math.round(perimeter2/speed) ;
+
 
         Intent intent = new Intent(MainActivity.this,ResultViewActivity.class);
         intent.putExtra("Area1", Double.toString(Area));
