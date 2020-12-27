@@ -1,5 +1,5 @@
 # RestaurantTriangle
-
+Is an android app used to find nearest anf farthest restuarant. in this app using Here map api for map and zomato api for find restaurant
 Platform : Android
 
 
