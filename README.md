@@ -8,7 +8,7 @@ Platform : Android
 
 in AndroidManifest.xml
 
-<meta-data
+"<meta-data
             android:name="com.here.android.maps.appid"
             android:value="AppID" />
         <meta-data
@@ -16,7 +16,7 @@ in AndroidManifest.xml
             android:value="AppCode" />
         <meta-data
             android:name="com.here.android.maps.license.key"
-            android:value="Licence Key" />
+            android:value="Licence Key" />"
 
 
 AppID : "1VcKpS2ggPs7XLULKUJ1"
