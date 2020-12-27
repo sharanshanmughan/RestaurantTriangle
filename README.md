@@ -1,5 +1,24 @@
 # RestaurantTriangle
 
+Platform : Android
+
+
+1) Here Map Integration
+
+
+in AndroidManifest.xml
+
+<meta-data
+            android:name="com.here.android.maps.appid"
+            android:value="AppID" />
+        <meta-data
+            android:name="com.here.android.maps.apptoken"
+            android:value="AppCode" />
+        <meta-data
+            android:name="com.here.android.maps.license.key"
+            android:value="Licence Key" />
+
+
 AppID : "1VcKpS2ggPs7XLULKUJ1"
 
 AppCode : "oTgCiMkYEJ-VBLycbYAywg" 
