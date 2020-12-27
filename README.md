@@ -20,4 +20,3 @@ in AndroidManifest.xml
             android:name="com.here.android.maps.license.key"
             android:value="licencekey" />
 ```
-![Working](screenshots/Screenshot_2020-12-27-21-25-41-277_com.auggen.restuaranttriangleScreenshot_2020-12-27-21-25-41-277_com.auggen.restuaranttriangle.jpg)
